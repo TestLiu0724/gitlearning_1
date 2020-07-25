@@ -9,8 +9,5 @@ public class Test {
         System.out.println("jsfsljlsjglsk");
         System.out.println("jsfsljlsjglsk");
 
-
-        System.out.println("jsfsljlsjglsk");
-        System.out.println("jsfsljlsjglsk");
     }
 }
